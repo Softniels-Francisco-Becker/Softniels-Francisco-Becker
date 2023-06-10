@@ -3,9 +3,7 @@
 Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vitória, atualmente estou cursando Engenharia de software pela Uniguaçu.
  
 <div>
-  <a href="https://github.com/Softniels-Francisco-Becker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Softniels-Francisco-Becker&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softniels-Francisco-Becker&layout=compact&langs_count=16"/>
+  <img align="center" alt="Francisco-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
 </div>
 
 ## 
