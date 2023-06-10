@@ -6,9 +6,9 @@ Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vi
 Atualmente Trabalho com as seguintes tecnologias:
 <div>
  <img height="32" width="32" src="https://cdn.simpleicons.org/delphi/#EE1F35" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
 </div>
 
 ## 
