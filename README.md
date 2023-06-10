@@ -3,7 +3,7 @@
 Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vitória, atualmente estou cursando Engenharia de software pela Uniguaçu.
  
 <div>
-  <img align="center" alt="Francisco-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-plain.svg">
+ <img height="32" width="32" src="https://cdn.simpleicons.org/delphi/#EE1F35" />
 </div>
 
 ## 
