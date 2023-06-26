@@ -5,6 +5,13 @@ Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vi
 ##
 <h3>Atualmente Trabalho com as seguintes tecnologias:<h3>
 
+ [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />]( https://git-scm.com/ )
+ [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+ [<img height="32" width="32" src="https://cdn.simpleicons.org/delphi/#EE1F35" /> ](https://www.embarcadero.com/products/delphi)
+ [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> ](https://www.mysql.com/)
+ [<img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/#232F3E" /> ](https://aws.amazon.com/)
+
+
 ## 
  
 <h3>Estou estudando:<h3>
