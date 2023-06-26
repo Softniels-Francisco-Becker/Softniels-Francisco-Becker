@@ -15,6 +15,14 @@ Em 2019 me formei em Técnico em informática pelo IFPR - Campus de União da Vi
 ## 
  
 <h3>Estou estudando:<h3>
+
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://pt.wikipedia.org/wiki/HTML5)
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://en.wikipedia.org/wiki/JavaScript)
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />](https://vuejs.org/)
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://react.dev/)
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
+   [<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />](https://www.postgresql.org/)
+
  
 ## 
  
